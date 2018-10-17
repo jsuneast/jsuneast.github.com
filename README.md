@@ -1,2 +1,2 @@
 # jsuneast.github.com
-haedong's github pagesd
+haedong's github pages
